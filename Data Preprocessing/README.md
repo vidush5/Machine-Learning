@@ -8,3 +8,5 @@ It's very important to do data preprocessing before going to train the Machine L
 * Categorical Encoding
 * Imputation
 
+![alt text](./Images/img1.png)
+
